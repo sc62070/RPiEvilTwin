@@ -10,7 +10,7 @@
 sudo apt update -y
 sudo apt upgrade -y
 sudo apt install -y dialog git
-git clone https://github.com/tmcdonagh/RPiEvilTwin.git
+git clone https://github.com/sc62070/RPiEvilTwin.git
 cd RPiEvilTwin/
 sudo ./installer.sh
 # Reconnect after reboot once script installs docker
